@@ -213,7 +213,8 @@ public class LoanCalcViewController implements Initializable {
 	private void btnClearResults(ActionEvent event) {
 
 		paymentList.clear();
-		hbChart.getChildren().clear();		
+		hbChart.getChildren().clear();	
+		hbChart1.getChildren().clear();
 		lblTotalPayemnts.setText("");
 		lblTotalInterest.setText("");
 		lblInterestSaved.setText("");
