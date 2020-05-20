@@ -32,8 +32,8 @@
 
 	<properties>
 		<!-- Generic properties -->
-		<JavaFX.Platform>win</JavaFX.Platform>
-		<!-- <JavaFX.Platform>mac</JavaFX.Platform> -->
+<!-- 		<JavaFX.Platform>win</JavaFX.Platform> -->
+		<JavaFX.Platform>mac</JavaFX.Platform>
 		<!-- <JavaFX.Platform>linux</JavaFX.Platform> -->
 
 		<java.version>1.13</java.version>
